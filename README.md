@@ -4,7 +4,7 @@ A single-player game, featuring a tank of moving, splashable water. The goal of 
 
 ## Link:
 
-You can play the game at the following web link: https://ucla-fa18-cs174a.github.io/term-project-group-22/
+You can **play the game** at the following web link: https://ucla-fa18-cs174a.github.io/term-project-group-22/
 
 The game was developed for and **works best on Google Chrome**.
 
